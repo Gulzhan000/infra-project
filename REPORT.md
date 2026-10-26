@@ -1,8 +1,6 @@
 # Отчёт по мидтерму DevOps
 
-Проект: midterm devops
-
-Репозиторий: https://github.com/Gulzhan000/infra-project
+задание: midterm devops
 
 ## 1.1 Настройка и первый коммит
 
